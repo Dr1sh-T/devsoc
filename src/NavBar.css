@@ -1,0 +1,33 @@
+.NavBar{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  height: 100px;
+  width: 100%;
+}
+
+.main{
+  position: relative;
+  left: 43%;
+  display: flex;
+}
+.main h2{
+  position: relative;
+  margin-left: 30px;
+}
+ .Title h1{
+  position: relative;
+  left: 99px;
+  font-family: monospace;
+  font-style: italic;
+  font-size: 35px;
+}
+.Title h1:hover{
+  color: orange;
+}
+.Title img{
+position: absolute;
+ padding-left: 1px;
+ top: 1%;
+ left: 0px;
+}

@@ -1,0 +1,22 @@
+.flex{
+  background-color: rgb(255, 252, 255);
+  font-size: 15px;
+  font-family: cursive;
+}
+.grid{
+  display:grid;
+  margin: 20px;
+  padding: 70px;
+  gap: 50px 100px;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-around;
+  height: 1000px;
+  align-content: center;
+}
+.header h1{
+  position: relative;
+  left: 35%;
+  font-weight: 470;
+  font-family:'Courier New', Courier, monospace;
+  font-style: italic;
+}
