@@ -1,8 +1,18 @@
 .menu{
   position: relative;
-  top: 220px;
-  background-color: aquamarine;
+  background-color: rgb(77, 250, 204);
 }
 .container{
   border: 2px double red ;
+}
+.menu h1{
+  color: rgb(255, 16, 60);
+  position: relative;
+  left: 45%;
+  font-size: 2.5rem;
+  border: 5px double black;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: azure;
 }

@@ -1,8 +1,9 @@
+import './Menu.css';
 const Menu = () => {
   return ( 
     <div className="menu">
       <h1>Menu</h1>
-      <div className="container">
+      <div className="container1">
         <h2>Food City</h2>
         <li>Cheese Chicken Roll - Rs.95</li>
         <li>Aloo Paratha - Rs.33</li>
@@ -19,7 +20,7 @@ const Menu = () => {
         <li>Chilli Paneer - Rs.80</li>
         <li>Chilli Chicken - Rs.80</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Taaz Biriyani</h2>
         <li>Veg Biriyani - Rs.95f</li>
         <li>Egg Biriyani - Rs.95</li>
@@ -33,7 +34,7 @@ const Menu = () => {
         <li>Mutton Keema Biriyani - Rs.290</li>
         <li>Paneer Biriyani - Rs.230</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Cafe Coffee day</h2>
         <li>Double Scoop Ice Cream - Rs.116</li>
         <li>Crackling Brownie - Rs.120</li>
@@ -43,7 +44,7 @@ const Menu = () => {
         <li>King's Treat - Rs.319</li>
         <li>Super Snacker - Rs.199</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Food Studio</h2>
         <li>Veg Paneer Tikka - Rs.259</li>
         <li>Veg Paneer Hariyali - Rs.270</li>
@@ -52,7 +53,7 @@ const Menu = () => {
         <li>Murg Hariyali - Rs.292</li>
         <li>Murg Tikka - Rs.237</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Waldorf</h2>
         <li>Mushroom Salted Pepper - Rs.185</li>
         <li>Mushroom Schezwan Chilli - Rs.185</li>
@@ -62,7 +63,7 @@ const Menu = () => {
         <li>Butter Naan - Rs.50</li>
         <li>Tandoori Butter Roti - Rs.35</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>The Prince</h2>
         <li>Ajwani Fish Tikka - Rs.370</li>
         <li>Chicken Lahori Kebab - RS.300</li>
@@ -73,7 +74,7 @@ const Menu = () => {
         <li>Chicken 95 - Rs.340</li>
         <li>Butter Garlic Fish Fry - Rs.350</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Havana</h2>
         <li>Veg Paneer Tikka - Rs.259</li>
         <li>Veg Paneer Hariyali - Rs.270</li>
@@ -82,7 +83,7 @@ const Menu = () => {
         <li>Murg Hariyali - Rs.292</li>
         <li>Murg Tikka - Rs.237</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>Himalayan Delight</h2>
         <li>Paneer Chilli Dry - Rs.120</li>
         <li>Chilli Baby Corn Dry - Rs.90</li>
@@ -92,7 +93,7 @@ const Menu = () => {
         <li>Chicken Lollipop - Rs.90</li>
         <li>Hot Garlic Prawns Dry - Rs.110</li>
       </div>
-      <div className="container">
+      <div className="container1">
         <h2>The Curry Room</h2>
         <li>Hara Bhara Kebab - Rs.220</li>
         <li>Rajasthani Paneer Tikka - Rs.250</li>

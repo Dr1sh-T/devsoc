@@ -1,7 +1,26 @@
 .flex{
   font-size: 15px;
   font-family: cursive;
+  background-color: rgb(255, 97, 126);
+  font-size: large;
+  border-radius: 2em;
 }
+
+.header h1{
+  position: relative;
+  top: 30px;
+}
+
+.flex h1 {
+  position: relative;
+left: 45%;
+}
+
+.flex h3{
+position: relative;
+left: 43%;
+}
+
 .grid{
   display:grid;
   margin: 20px;
@@ -14,13 +33,21 @@
 }
 .header h1{
   position: relative;
-  left: 35%;
-  font-weight: 470;
+  left: 31%;
   font-family:'Courier New', Courier, monospace;
   font-style: italic;
+  font-weight: bolder;
+  color: rgb(255, 45, 45);
+  font-size: 2.5rem;
+}
+
+.header h1:hover{
+  color: blueviolet;
+  border: 5px double blue;
+  display: inline;
 }
 .container{
-  background-color: rgb(124, 165, 246);
+  background-color: rgb(230, 255, 106);
   border-radius: 15px;
   display: flex;
   flex-direction: column;
@@ -28,7 +55,7 @@
   justify-content: center;
 }
 .container:hover{
-  background-color: rgb(31, 140, 152);
+  background-color: rgb(255, 106, 103);
   transform: scale(1.1);
   color:aliceblue;
 }

@@ -1,13 +1,16 @@
 .flex:hover{
-background-color: rgb(255, 198, 113);
-}
-.grid{
-  background-color: rgb(232, 245, 255);
+background-color: orange;
 }
 .grid .container{
-  border: 2px red;
+  border-radius: 20px;
+  height: 100%;
+  width: 100%;
+  box-shadow: 10px 10px black;
 }
 .menu h1{
   position: relative;
   left: 50%;
+}
+body{
+  background-color: rgb(117, 255, 193);
 }

@@ -18,50 +18,50 @@ const Home = () => {
       </div>
       <div className="grid">
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7O1qxYDUorB2_9YXCFhrCHM4ow3bGcFRLA&usqp=CAU" alt="" height="150px" /></div>
+        <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7O1qxYDUorB2_9YXCFhrCHM4ow3bGcFRLA&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Food City</h3></a>
           <h4>Location: Shop No. RKH-1, IIT Opp. R.K.Hall</h4>
         </div>
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfClqNGWO3BaPv8sVHPg7a5gnbYJ7KtUB8A&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfClqNGWO3BaPv8sVHPg7a5gnbYJ7KtUB8A&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Taaz Biryani</h3></a>
           <h4>Location: Bus Stand, Plot 941</h4>
         </div>
         <div className="container">
-          <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CCD_IIT_Kharagpur.jpg/480px-CCD_IIT_Kharagpur.jpg" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CCD_IIT_Kharagpur.jpg/480px-CCD_IIT_Kharagpur.jpg" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Cafe Coffee Day</h3></a>
           <h4>Location: Scholars' Avenue opposite to Gokhle Hall of Residence </h4>
         </div>
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQuWtU9jwAbdldkJzk5-qKzDJU41fIWDdMw&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQuWtU9jwAbdldkJzk5-qKzDJU41fIWDdMw&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Food Studio</h3></a>
           <h4>Location: REGENT MALL, near kharagpur municipality</h4>
         </div>
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6oNqNn4d8WfsPsSYqUnbz32nbMyItsDfTcw&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6oNqNn4d8WfsPsSYqUnbz32nbMyItsDfTcw&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Waldorf</h3></a>
           <h4>Location: Chota Tengra, Kharagpur</h4>
         </div>
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvB_qydTLX_5MUCrmyZ_oUvZM_ALoqGUxPQ&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvB_qydTLX_5MUCrmyZ_oUvZM_ALoqGUxPQ&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>The Prince</h3></a>
           <h4>Location: SH 5, Prembazar, Kharagpur</h4>
         </div>
 
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCzWnilhtc_INYUcPpc7r3uwJKII6P2ufSg&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCzWnilhtc_INYUcPpc7r3uwJKII6P2ufSg&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Havana Bar and Restaurant</h3></a>
           <h4>Location: 88HQ+PWH, Kharagpur City Rd</h4>
         </div>
 
         <div className="container">
-          <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpx4pXXxhQp2BQ3moODZ1THhNPpYRfeltUw&usqp=CAU" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpx4pXXxhQp2BQ3moODZ1THhNPpYRfeltUw&usqp=CAU" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>Himalayan Delight</h3></a>
           <h4>Location: South Side, Kharagpur</h4>
         </div>
 
         <div className="container">
-          <div><img src="https://media-cdn.tripadvisor.com/media/photo-p/1c/88/78/f5/photo1jpg.jpg" alt="" height="150px" /></div>
+          <a href="/Menu"><div><img src="https://media-cdn.tripadvisor.com/media/photo-p/1c/88/78/f5/photo1jpg.jpg" alt="" height="150px" /></div></a>
           <a href="/Menu"><h3>The Curry Room</h3></a>
           <h4>Location: Jhapatapur South Side, Kharagpur</h4>
         </div>

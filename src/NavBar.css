@@ -1,9 +1,18 @@
 .NavBar{
   display: flex;
   align-items: center;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   height: 100px;
-  width: 100%;
+  border-style: solid;
+  border-color: royalblue;
+  border-radius: 20px;
+  border-width: medium;
+}
+
+.NavBar a{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .main{
@@ -21,6 +30,7 @@
   font-family: monospace;
   font-style: italic;
   font-size: 35px;
+  color: coral;
 }
 .Title h1:hover{
   color: orange;
